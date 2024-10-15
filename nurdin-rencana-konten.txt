@@ -1,6 +1,8 @@
 RENCANA KONTEN NURDIN
 
 - Javascript
+  * ES6
+  * Framework javascript
 - PHP framework
 - Interview
 - Vlog
