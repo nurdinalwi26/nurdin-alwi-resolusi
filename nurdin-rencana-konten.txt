@@ -3,7 +3,10 @@ RENCANA KONTEN NURDIN
 - Javascript
   * ES6
   * Framework javascript
+    + Angular
+    + React
 - Struktur Data Dasar
 - PHP framework
+  * Laravel
 - Interview
 - Vlog
