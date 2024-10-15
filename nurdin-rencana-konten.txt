@@ -3,7 +3,9 @@ RENCANA KONTEN NURDIN
 - Javascript
   * ES6
   * Framework javascript
+    + Vue
 - Struktur Data Dasar
 - PHP framework
 - Interview
 - Vlog
+- Python
